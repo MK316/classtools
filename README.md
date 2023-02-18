@@ -9,4 +9,7 @@
 |05|[gTTS basic setting](https://github.com/MK316/classtools/blob/main/gTTS.ipynb)|gTTS simple setting|
 |06|[Story telling with images](https://github.com/MK316/classtools/blob/main/story_plus_image.ipynb)|Storyboard with images created using Midjourney openAI|
 |07|[Create QR code](https://github.com/MK316/classtools/blob/main/QRcode.ipynb)|Generating QR code for a url link|
+|08|[Tree diagram](https://github.com/MK316/classtools/blob/main/treediagram.ipynb)| Generate simple syntactic tree diagram|
+|09|||
+|10|||
 
