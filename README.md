@@ -7,6 +7,6 @@
 |03|[Stopwatch, Current time in a city](https://github.com/MK316/classtools/blob/main/Stopwatch.ipynb)||
 |04|[Story game](https://github.com/MK316/classtools/blob/main/Storygame.ipynb)|Interactive story reading with choices (basic form)|
 |05|[gTTS basic setting](https://github.com/MK316/classtools/blob/main/gTTS.ipynb)|gTTS simple setting|
-|06|[Story telling with images|Storyboard with images created using Midjourney openAI|
+|06|[Story telling with images](https://github.com/MK316/classtools/blob/main/story_plus_image.ipynb)|Storyboard with images created using Midjourney openAI|
 |07|||
 
