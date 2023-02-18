@@ -6,3 +6,7 @@
 |02|[Creating sample data](https://github.com/MK316/classtools/blob/main/CreateSample.ipynb)|create a datafrome with randomly generated data|
 |03|[Stopwatch, Current time in a city](https://github.com/MK316/classtools/blob/main/Stopwatch.ipynb)||
 |04|[Story game](https://github.com/MK316/classtools/blob/main/Storygame.ipynb)|Interactive story reading with choices (basic form)|
+|05|[gTTS basic setting](https://github.com/MK316/classtools/blob/main/gTTS.ipynb)|gTTS simple setting|
+|06|||
+|07|||
+
